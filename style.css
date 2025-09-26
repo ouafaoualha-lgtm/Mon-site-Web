@@ -1,0 +1,147 @@
+body {
+    font-size: 14px;
+    font-family: Georgia, serif;
+    font-weight: 60;
+    line-height:25px;
+    background-color: #D6EAF8;
+    }
+.nav_li{
+  float: left;
+    }
+
+.nav_li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.nav_li a:hover {
+  background-color:#5499c7;
+}
+.nav_ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-image: url("images/Nav.jpg");
+
+}
+
+.P1{
+  font-size: 16px;
+  text-align: justify;
+  padding: 25px 200px 25px;
+}
+.P2{
+  font-size: 16px;
+  text-align: justify;
+  padding: 5px 100px 5px;
+}
+        
+.Accueil
+    {
+         color:  #154360 ;
+         text-align: center;
+    }
+  h1
+  {
+    color:    #1b2631  ;
+    text-align: center;
+  }
+  form 
+    {
+    width: 50%;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+div
+{
+    text-align: center;
+
+}
+
+table
+{
+    border-collapse: collapse;
+    line-height: 30px;
+    width: 50%;
+
+    
+
+}
+audio
+{
+  border: solid;
+  border-radius: 30px;
+  width: 20%;
+}
+.T1{
+  width: 100%;
+}
+
+th
+{
+  color:#2F4F4F;
+  background-color: rgb(228 240 245);
+  border: 1px solid rgb(160 160 160);
+}
+td
+{
+   text-align: center;
+    border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+  font-weight:bold;
+  
+   
+}
+.C1{
+  color:#2F4F4F;
+  background-color: rgb(228 240 245);
+  border: 1px solid rgb(160 160 160);
+}
+.L1{
+  padding: 5px 200px 5px;
+}
+
+section
+{
+       display: block;
+            
+}
+
+footer
+{
+  display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #333;
+    color: white;
+
+}
+img
+{
+  border: 1px solid whitesmoke;
+  border-radius: 1em;
+}
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 1em;
+}
+.rendez-vous
+{
+  text-align: left;
+  color:#1B4F72;
+  font-weight: bold;
+  
+}
